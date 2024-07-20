@@ -1,0 +1,13 @@
+Package: com.3uthemes.tweaked3
+Version: 1.0
+Section: Tweaks
+Maintainer: Onionjumoke <onionjumoke@gmail.com>
+Depends: firmware (>3.0), winterboard
+Architecture: iphoneos-arm
+Filename: ./debs/com.3uthemes.tweaked3
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: This is a sample new package. Firmware should be greater than 7.0
+Name: Tweaked3
+Author: Onionjumoke <onionjumoke@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.3uthemes.tweaked3

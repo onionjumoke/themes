@@ -5,7 +5,7 @@ Maintainer: Onionjumoke <onionjumoke@gmail.com>
 Depends: firmware (>3.0), winterboard
 Architecture: iphoneos-arm
 Filename: ./debs/com.3themes.tweaked3
-Size: 168
+Size: 168000
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
 Description: test requires summerboard mode
 Name: Tweaked3
@@ -19,7 +19,7 @@ Maintainer: Onionjumoke <onionjumoke@gmail.com>
 Depends: firmware (>3.0), winterboard
 Architecture: iphoneos-arm
 Filename: ./debs/com.3themes.darkos3
-Size: 498000
+Size: 498000000
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
 Description: Dark theme for iPhoneOS 3, untested for iOS 4 and up. requires summerboard mode
 Name: Tweaked3

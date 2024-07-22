@@ -1,13 +1,27 @@
-Package: com.3uthemes.tweaked3
+Package: com.3themes.tweaked3
 Version: 1.0
 Section: Tweaks
 Maintainer: Onionjumoke <onionjumoke@gmail.com>
 Depends: firmware (>3.0), winterboard
 Architecture: iphoneos-arm
-Filename: ./debs/com.3uthemes.tweaked3
-Size: 854
+Filename: ./debs/com.3themes.tweaked3
+Size: 168
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
+Description: test requires summerboard mode
 Name: Tweaked3
 Author: Onionjumoke <onionjumoke@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.3uthemes.tweaked3
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.3themes.tweaked3
+
+Package: com.3themes.darkos3
+Version: 1.0
+Section: Tweaks
+Maintainer: Onionjumoke <onionjumoke@gmail.com>
+Depends: firmware (>3.0), winterboard
+Architecture: iphoneos-arm
+Filename: ./debs/com.3themes.tweaked3
+Size: 498000
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Description: Dark theme for iPhoneOS 3, untested for iOS 4 and up. requires summerboard mode
+Name: Tweaked3
+Author: Onionjumoke <onionjumoke@gmail.com>
+Depiction: 
